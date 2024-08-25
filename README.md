@@ -13,7 +13,7 @@ Imported each CSV file into its corresponding SQL table
 ## Data Analysis
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
-List 1](https://github.com/user-attachments/assets/d1b3641b-e310-4b90-81c9-4de1bf7dd5c1)
+![List 1](https://github.com/user-attachments/assets/f47c7196-0247-4d04-8bcf-99e2f2b16cce)
 
 2 .List the first name, last name, and hire date for the employees who were hired in 1986.
 
